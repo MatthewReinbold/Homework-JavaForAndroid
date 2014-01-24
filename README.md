@@ -2,7 +2,7 @@
 =======================
 
 ##Introduction
-This are excercises done while working through the book **Learn Java for Android Development** (Second Edition) by Jeff Friesen. It was published by Apress in 2013.
+This are excercises done while working through two books. The first is **Learn Java for Android Development** (Second Edition) by Jeff Friesen. It was published by Apress in 2013. The second is **Learning Android: Develop Mobile Apps Using Java and Eclipse** by Marko Gargenta & Masumi Nakamura. Also a 2nd edition, it was published by O'Reilly in 2014.
 
 Many of the exercises are (most likely) done directly from the given examples and should not be considered standalone bits of functaionlity. Got a resource for learning Android development? I'd love to hear it. 
 
