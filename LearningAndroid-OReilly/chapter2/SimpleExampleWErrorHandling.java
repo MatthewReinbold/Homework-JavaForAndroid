@@ -32,7 +32,12 @@ public class SimpleExampleWErrorHandling {
 	*/
 
 	public static void main(String[] args) {
-			try{ example.setValue(i); }
+		for(int i=0; i<10;i++) {
+			SimpleExample example = new SimpleExample();
+
+			if(i/2 <= 2) {
+				// --- error handling part 4
+				try{ example.setValue(i); }
 				catch(Exception e) { e.printStackTrace();}
 			} else {
 				// --- error handling part 4

@@ -1,4 +1,4 @@
-package com.marakana.examples
+package com.marakana.examples;
 
 /*
 	In this example, ComplexExample has a main method when executed
@@ -22,7 +22,7 @@ public class ComplexExample {
 			synchronized(generator) {
 				generator.wait();
 			}
-		} catch (InterruptedExeption ie) {
+		} catch (InterruptedException ie) {
 			System.err.println("Generator Wait Interrupted!!!");
 			ie.printStackTrace();
 		} finally {

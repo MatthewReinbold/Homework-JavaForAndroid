@@ -1,5 +1,7 @@
 package com.marakana.examples;
 
+
+// will not compile - compiler says since MsgTypeImplementationExtended is public class, should be in java file named 'MsgTypeImplementationExtended'
 public class MsgTypeImplementationExtended extends MsgTypeImplementation {
 	@Override
 	public String getMsgType() {

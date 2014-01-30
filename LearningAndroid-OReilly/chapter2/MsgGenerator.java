@@ -7,7 +7,7 @@ public class MsgGenerator implements Runnable {
 	private ArrayList<MsgInterface> list;
 
 	public MsgGenerator() {
-		list = new ArrayList<MsgInterface();
+		list = new ArrayList<MsgInterface>();
 	}
 
 	public void run() {

@@ -1,4 +1,4 @@
-package com.marakana.examples
+package com.marakana.examples;
 
 public class MsgTypeImplementation implements MsgInterface {
 	private String msg;
