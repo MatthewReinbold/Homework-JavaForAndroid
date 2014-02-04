@@ -10,3 +10,8 @@ Many of the exercises are (most likely) done directly from the given examples an
 Many of the initial java files are compiled (using javac xxxx.java) and then run (java xxxx.class) from the command line.
 
 Matthew (2014/01)
+
+## Progress Log
+- 2014-02-03 - *Learning Android*: Skipped Bad Chapter 2 Code, Went to Chapter 3's Overview of 'The Stack' (20m), end pg. 43
+- 2014-02-02 - Skimmed Chapter 6, *Learn Java for Android*, the deep, deep features (1 hour, end pg. 269)
+- 2014-02-01 and before - didn't track in this doc
